@@ -44,10 +44,4 @@ K05_gingivitis_periodontitis
 
 Change paths only in the first code cell of each notebook.
 
-Disease status is encoded as:
-
-```text
-1 = healthy/control
-2 = case
-```
 
