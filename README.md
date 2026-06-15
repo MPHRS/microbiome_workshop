@@ -44,14 +44,6 @@ K05_gingivitis_periodontitis
 
 Change paths only in the first code cell of each notebook.
 
-## Expected MaAsLin2 input files
-
-```text
-data/microbiome_383_taxa_with_sampleid.csv
-data/has_K05_sampleids.csv
-data/has_K02_sampleids.csv
-```
-
 Disease status is encoded as:
 
 ```text
