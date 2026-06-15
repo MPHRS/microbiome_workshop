@@ -23,7 +23,6 @@ A brief example of microbiome data analysis. For more complex analysis, see the 
 6. `requirements.txt`  
    Python dependencies.
 
-`05_ml_loso.ipynb` was removed. LOSO requires at least two bioprojects. With one bioproject it is methodologically not meaningful.
 
 ## Expected Python input files
 
