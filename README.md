@@ -1,6 +1,6 @@
 # GNTK_M minimal workshop version - one bioproject
 
-A brief example of microbiome data analysis.
+A brief example of microbiome data analysis.For more complex analysis, see the [main repository](https://github.com/MPHRS/GNTK_M).
 
 ## Files and why they exist
 
